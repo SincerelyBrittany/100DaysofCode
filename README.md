@@ -1,3 +1,4 @@
 # 100DaysofCode
 
-Day one:[a link](https://github.com/user/repo/blob/branch/other_file.md)
+Ruby:
+[Day One](https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_1_Understanding_Iterators.rb)
