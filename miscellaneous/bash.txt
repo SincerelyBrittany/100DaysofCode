@@ -1,0 +1,20 @@
+cd ~
+ln -s ~/Library/Mobile\ Documents iCloud
+
+ cd ~/iCloud
+
+cd ~
+ls -a
+sudo nano .bash_profile
+
+alias i="cd ~/iCloud/com~apple~CloudDocs/Documents"
+
+echo $SHELL
+
+cd ~
+ls -a
+sudo nano .zshrc
+
+alias i="cd ~/iCloud/com~apple~CloudDocs/Documents"
+
+i
