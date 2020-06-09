@@ -3,5 +3,5 @@
 require './config/environment'
 
 use Rack::MethodOverride
-use YourController
+use ApplicationController
 run ApplicationController
