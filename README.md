@@ -6,7 +6,7 @@
 <a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_1_Understanding_Iterators.rb"> Understanding Iterators </a> : <a href="https://dev.to/sincerelybrittany/understanding-iterators-2d0p"> Blog Post </a>
 
 
-<h2> Day 2: <a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/miscellaneous"> miscellaneous </a> </h2>
+<h2> Day 2: <a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/miscellaneous"> Miscellaneous </a> </h2>
 
 <a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/miscellaneous/Day_2_bash.txt"> Setting up an alias in Bash </a> : <a href="https://dev.to/sincerelybrittany/day-2-100daysofcode-i-updated-to-catalina-and-all-hell-broke-loose-2h7n"> Blog Post </a>
 
@@ -25,3 +25,15 @@
 <h2> Day 6:<a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/ruby"> Ruby </a> </h2>
 
 <a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_5_Setting_up_a_Sinatra_App/config.ru"> Config.ru </a> : <a href="https://dev.to/sincerelybrittany/day-6-100daysofcode-sinatra-set-up-part-2-config-ru-h4b"> Blog Post </a>
+
+<h2> Day 7:<a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/ruby"> Ruby </a> </h2>
+
+<a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_5_Setting_up_a_Sinatra_App"> Config.ru </a> : <a href="https://dev.to/sincerelybrittany/day-7-100daysofcode-setting-up-a-sinatra-app-part-3-3nm9"> Blog Post </a>
+
+<h2> Day 8:<a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/ruby"> Ruby </a> </h2>
+
+<a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_5_Setting_up_a_Sinatra_App/db"> Config.ru </a> : <a href="https://dev.to/sincerelybrittany/day-8-100daysofcode-setting-up-sinatra-database-part-4-9d6"> Blog Post </a>
+
+<h2> Day 9: <a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/ruby"> Ruby </a> </h2>
+
+<a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_5_Setting_up_a_Sinatra_App/db"> Config.ru </a> : <a href="https://dev.to/sincerelybrittany/day-9-100daysofcode-activerecord-and-a-database-6de"> Blog Post </a>
