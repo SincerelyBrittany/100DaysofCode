@@ -37,3 +37,14 @@
 <h2> Day 9: <a href="https://github.com/SincerelyBrittany/100DaysofCode/tree/master/ruby"> Ruby </a> </h2>
 
 <a href="https://github.com/SincerelyBrittany/100DaysofCode/blob/master/ruby/Day_5_Setting_up_a_Sinatra_App/db"> database </a> : <a href="https://dev.to/sincerelybrittany/day-9-100daysofcode-activerecord-and-a-database-6de"> Blog Post </a>
+
+<h2> Day 10: ActiveRecord and a Database </h2>
+
+ <a href="https://dev.to/sincerelybrittany/day-10-100daysofcode-activerecord-and-a-database-17i8"> Blog Post </a>
+
+<h2> Day 11: RESTful Routes </h2>
+
+<a href="https://dev.to/sincerelybrittany/day-11-100daysofcode-restful-routes-1ab1"> Blog Post </a>
+
+
+Day 12: Javascript <a href="https://github.com/SincerelyBrittany/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit"> Completed Day 1 of #30DayJavascript </a>
